@@ -35,3 +35,6 @@ Cleaned shapefiles (per class)
 Attribute-enriched datasets
 
 Ready for integration into urban forestry models, site planning.
+
+
+`#QGIS` `#GISAutomation` `#RemoteSensing` `#Python` `#TreeHealth` `#HabitatMapping`  `#SAM` `#CloudPolygon` `#SpanLevel` `#GeospatialAnalysis` `#TreeGrass`
