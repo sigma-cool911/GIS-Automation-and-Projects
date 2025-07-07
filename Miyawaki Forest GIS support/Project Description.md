@@ -17,3 +17,7 @@ GIS-ready shapefiles for integration into city planning and climate resilience s
 
 This project supports data-driven urban forestry, improves climate resilience, and promotes urban biodiversity enhancement 
 by transforming degraded or overlooked urban areas into thriving green ecosystems using the Miyawaki methodology.
+
+
+
+`#QGIS` `#GISAutomation` `#RemoteSensing` `#Python` `#TreeHealth` `#HabitatMapping`  `#SAM` `#CloudPolygon` `#SpanLevel` `#GeospatialAnalysis` `#TreeGrass`
