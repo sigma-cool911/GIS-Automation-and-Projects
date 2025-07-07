@@ -29,3 +29,6 @@ Polygon Precision: Smaller features led to generalized markings that sometimes i
 
 Conclusion
 This initial method offered valuable insights but encountered several challenges, including overlapping datasets, angle inconsistencies, environmental obstructions, and visual interpretation limitations. These observations emphasize the importance of methodological refinement and potential integration of complementary datasets to improve classification reliability.
+
+
+`#QGIS` `#GISAutomation` `#RemoteSensing` `#Python` `#TreeHealth` `#HabitatMapping`  `#SAM` `#CloudPolygon` `#SpanLevel` `#GeospatialAnalysis` `#TreeGrass`
