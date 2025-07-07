@@ -1,3 +1,5 @@
+WORKFLOW
+
 A structured geospatial pipeline was designed to accurately identify and classify dead, partially dead, and unhealthy trees affecting electric infrastructure. The following workflow integrates high-resolution imagery analysis, manual QC, and automated enhancements:
 
 1. Imagery Acquisition & Preprocessing
