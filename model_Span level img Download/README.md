@@ -40,3 +40,8 @@ Professional Workflow for Using Automated Models in QGIS for Image Downloading
 Output Dataset:
  
 Note: “Please ensure that no files are saved as temporary”
+
+
+
+
+`#QGIS` `#GISAutomation` `#RemoteSensing` `#Python` `#TreeHealth` `#HabitatMapping`  `#SAM` `#CloudPolygon` `#SpanLevel` `#GeospatialAnalysis` `#TreeGrass`
