@@ -1,3 +1,6 @@
+WORKFLOW
+
+
 1. Data Preparation
 Acquired high-resolution satellite imagery and base maps lake regions.
 
