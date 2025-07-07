@@ -1,3 +1,5 @@
+WORKFLOW
+
 The project follows a hybrid GIS workflow combining AI-powered segmentation (SAM) with manual vector editing in QGIS to extract critical land cover and tree features for Miyawaki forest planning. Below is the structured workflow:
 
 1. Base Imagery Preparation
