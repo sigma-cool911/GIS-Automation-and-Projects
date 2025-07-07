@@ -37,3 +37,7 @@ This project focuses on the manual delineation and high-accuracy digitization of
 - Improved classification reliability by minimizing seasonal/spectral overlaps
 - Enabled scalable **AI model development** for mangrove monitoring
 - Contributed to long-term **coastal conservation strategies**
+
+
+
+`#QGIS` `#GISAutomation` `#RemoteSensing` `#Python` `#TreeHealth` `#HabitatMapping`  `#SAM` `#CloudPolygon` `#SpanLevel` `#GeospatialAnalysis` `#TreeGrass`
