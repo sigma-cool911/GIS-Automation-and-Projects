@@ -3,7 +3,7 @@ QGIS automation models and GIS project workflows with problem solving insights.
 
 # GIS Automation & Remote Sensing Projects 🛰️
 
-Welcome to my professional portfolio of GIS models and real-world project workflows. This repository contains automation models built in QGIS and problem-driven GIS project solutions focusing on habitat mapping, tree health, and satellite image processing.
+Welcome to my professional portfolio of GIS models and real-world project workflows. This repository contains automation models built in QGIS and problem-driven GIS project solutions focusing on habitat mapping, tree health management, and cloud polygon image processing.
 
 ## 📁 Structure
 
@@ -16,8 +16,8 @@ Welcome to my professional portfolio of GIS models and real-world project workfl
 ### 🌿 BNG Habitat Automation
 Automates the classification of habitats using QGIS models based on SOP and code tables.
 
-### 🌳 Tree Health
-Field-validated interpretation of tree health using 30cm imagery and span-level QC insights.
+### 🌳 Tree Hazard Management
+Interpretation of tree health using satellite imagery and QC insights.
 
 ### ☁️ Cloud Polygon Image Download
 QGIS model to auto-download and process cloud-covered imagery areas.
