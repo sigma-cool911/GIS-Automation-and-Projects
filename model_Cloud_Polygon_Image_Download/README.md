@@ -22,3 +22,7 @@ ________________________________________
 
 Output: 
 Upon successful completion, the model will generate image files corresponding to the specified cloud polygons, ready for immediate use and integration into the workflow.
+
+
+
+`#QGIS` `#GISAutomation` `#RemoteSensing` `#Python` `#TreeHealth` `#HabitatMapping`  `#SAM` `#CloudPolygon` `#SpanLevel` `#GeospatialAnalysis` `#TreeGrass`
